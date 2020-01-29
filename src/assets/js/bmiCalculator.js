@@ -1,5 +1,3 @@
-
-
 //BMI Calculator 1 multiply height by height, after divide by (kilograms % Cacl_heigh)
 // then compare in the status table.
 
